@@ -45,4 +45,4 @@ Seguir aprendiendo y avanzando con un futuro prospero en el campo de la programa
 ---
 > "Just let it happen."
 > — Tame Impala
-> — :contentReference[oaicite:0]{index=0}
+> — :contentReference
